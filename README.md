@@ -1,4 +1,4 @@
-#yhills_vaccine_prediction_capstone_project
+
 #Project Title: yhills_vaccine_prediction_capstone_project
 
 #Description:
