@@ -1,5 +1,5 @@
 #yhills_vaccine_prediction_capstone_project
-Project Title: yhills_vaccine_prediction_capstone_project
+#Project Title: yhills_vaccine_prediction_capstone_project
 
 #Description:
 The "yhills_vaccine_prediction_capstone_project" is a comprehensive data science capstone project aimed at predicting vaccine uptake based on various demographic and socio-economic factors. The project utilizes machine learning techniques to analyze a dataset containing information about vaccination rates alongside demographic and socio-economic indicators.
